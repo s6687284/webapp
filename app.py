@@ -17,7 +17,7 @@ def load_data(nrows):
     return data
 
 
-st.title('Uber pickups in NYC')
+st.title('Uber pickups in NYC by start2impact')
 
 data = load_data(10000)
 
